@@ -1,0 +1,48 @@
+name: Run on publish
+
+on:
+  repository_dispatch:
+    types: [on-obsidian-vault-publish]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: actions/checkout@v2
+        with:
+          repository: vnarek/obsidian-vault
+          path: vault
+          token: ${{ secrets.GH_PAT }}
+      
+      - uses: actions/checkout@v2
+        with:
+          repository: vnarek/obsidian-quartz-sanitizer
+          path: sanitizer
+      
+      - name: Clean content
+        run: rm -rf content/
+      
+      - name: Run quartz sanitizer on vault
+        run: mkdir content && cd content && python3 ../sanitizer/main.py && cd ..
+      
+      - name: Copy images from the vault
+        run: cp -r vault/images content/
+      
+      - name: Clean vault, sanitizer and content/private
+        run: rm -rf vault sanitizer content/private/
+      
+      - name: git status
+        run: git status
+      
+      - uses: EndBug/add-and-commit@v9
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_PAT }}
+          branch: v4
