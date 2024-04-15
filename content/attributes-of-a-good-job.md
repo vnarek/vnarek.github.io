@@ -11,6 +11,8 @@ title: Attributes of a good job
 * Stability of the job position
 * Interesting product
 
+There is also an concept of IKIGAI, which could be loosely translated as "that what gives the sense purpose". It seems related to this list of attributes.
+
 ### Salary
 Jobs in my field are heavily competitive, when we look at the salary. So not giving a high salary is equal to not caring enough about your human resources.
 
