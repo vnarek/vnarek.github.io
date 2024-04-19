@@ -1,6 +1,8 @@
 ---
 title: Solutions for booking fragment in API V3
+draft: "true"
 ---
+
 Booking fragments negatively impacted our SLAs and created issues that resulted in missing transactions, corrupted bookings, etc. Let's see if there exists a different solution for our situation.
 
 The reason the booking fragment in Couchbase exists is because some of the fields were missing before in our internal teams, and were not available in both search and booking responses. Additionally, it gave us more flexibility in defining the responses in a way that is more suited to our partners (UBER currently).

@@ -2,7 +2,6 @@
 title: Emergent vs consistent giving
 tags: [effective-altruism]
 ---
-
 Case can be made that giving to disaster relief and other kind of emergent giving is much less effective, than consistent giving to well-established and proven causes.
 
 ### Sources
