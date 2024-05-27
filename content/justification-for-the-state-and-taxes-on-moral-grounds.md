@@ -30,7 +30,7 @@ title: Justification for the state and taxes on moral grounds
 * Not paying taxes is just a contract breach
 ### I did not consented to this!
 * Your family did, when you were born, in the same way, they would consent to apply the rules of the rented flat on your behalf. Or if you immigrated here as a child then you accepted the terms when you became a citizen.
-* Until you live here you must abide by the contract and if you don't like it leave.
+* Until you live here you must abide by the contract and if you don't like it leave or try to change the contract using the system itself.
 * I would be more sympathetic to the argument that the people do not really have a choice to leave or that this choice is so hard that there is effectively no choice at all, but anarcho-capitalists most of the time do not really care about the terms and conditions of the contract and are against the positive rights, which this would surely be.
 * There are currently hundreds of different states for you to choose from. I don't think there would be any anarcho-capitalist, which would say that this is not enough competition.
 * This argument works only if people are allowed to leave the country. I am not going to justify regimes where this is not possible on these grounds.

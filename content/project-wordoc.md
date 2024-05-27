@@ -1,6 +1,7 @@
 ---
 title: Project wordoc
 draft: "true"
+topic: project-idea
 ---
 # Description and MVP
 
@@ -14,7 +15,7 @@ For starters only english language will be supported. We need a storage for the 
 
 # Tech-stack
 
-I could write this in a combination of GO on the backend and JS on the frontend, which would be probably easier for me to actually finish. I would not learn anything new . Maybe would in regards to the JS, but not on the backend.
+I could write this in a combination of GO on the backend and JS on the frontend, which would be probably easier for me to actually finish. I would not learn anything new. Maybe would in regards to the JS, but not on the backend.
 
 Or I can go more unconventional route and treat this as an toy/hobby project for me to try new stuff. I could write the API in .NET with F#. This would make the finishing of the project much harder.
 
