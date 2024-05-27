@@ -4,9 +4,11 @@ title: Name The Trait
 Argument for Veganism based on simple [Modus Ponens](None) structure:
 
 P1) If your view affirms a given human is trait-equalizable to a given nonhuman animal while retaining moral value, then your view can only deny the given
-nonhuman animal has moral value on pain of P∧~P.
+nonhuman animal has moral value on pain of $P \wedge \neg P$.
+
 P2) Your view affirms a given human is trait-equalizable to a given nonhuman animal while retaining moral value.
-C) Therefore, your view can only deny the given nonhuman animal has moral value on pain of P∧~P
+
+C) Therefore, your view can only deny the given nonhuman animal has moral value on pain of $P \wedge \neg P$.
 
 In general it is used like this.
 
