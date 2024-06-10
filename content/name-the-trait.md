@@ -20,7 +20,7 @@ In general it is used like this.
 
 * Inteligence, implies it's okay to raise and kill mentally disabled people
 * Species, implies it's okay to raise and kill animals that have human level consciousness (imagine human trapped in body of a cow) or that in case of Alien invasion it would be okay for them to raise and kill us, because we are different species
-* Not Human, depends on the definition of human and historically we used similar arguments for dehumanizing other human races
+* Not Human, depends on the definition of human and historically we used similar arguments for dehumanizing other humans
 * ...
 
 # Links
