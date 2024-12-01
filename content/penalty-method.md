@@ -8,7 +8,7 @@ tags: NI-PON
 
 ### Penalty method 
 #card
-Is a method for solving [Optimization problem](private/archive/school/optimization-problem.md) that is constrained with unconstrained $f'$, that
+Is a method for solving [Optimization problem](None) that is constrained with unconstrained $f'$, that
 1. Contains function $f$ from the original problem
 2. For each constrain there is penalization element, which is zero $\iff$ constrain is met, otherwise it's positive
 3. Penalization elements are often multiplied in each step with some variable $\nu_k$. 

@@ -8,11 +8,10 @@ There are both highly time-consuming activities that I need to do for longer per
 ### Bucket like list
 
 * [ ] Create our own custom macchiato cups from scratch using clay.
-* [ ] My former colleague did that somewhere near the place I live, and I would love to try that because of my coffee addiction*
+	* My former colleague did that somewhere near the place I live, and I would love to try that because of my coffee addiction*
 * [ ] Debate the Urza about veganism / morality of Ancap
 	* [ ] [Debate preparation](None)
 * [x] Some travelling (Portugal, Greece, maybe southern Italy again)
-* [ ] Create a game about surfing
 
 ### Long term strategy
 
